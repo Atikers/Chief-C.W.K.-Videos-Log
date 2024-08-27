@@ -1,0 +1,1 @@
+# [대두족장 인생 치트키 객체지향성 원론] Part 12 - 객체지향적 소리의 세계 Part 1: https://youtu.be/saRarqUmBGI

@@ -1,0 +1,1 @@
+# [대두족장 인생 치트키 객체지향성 원론] Part 08 - 객체지향적 요리: https://youtu.be/b6DXBVOljZ4

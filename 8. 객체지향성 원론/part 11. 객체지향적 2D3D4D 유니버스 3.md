@@ -1,0 +1,1 @@
+# [대두족장 인생 치트키 객체지향성 원론] Part 11 - 객체지향적 2D/3D/4D 유니버스 Part 3: https://youtu.be/QhetmrEtUg0

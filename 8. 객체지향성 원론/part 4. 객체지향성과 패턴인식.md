@@ -1,0 +1,1 @@
+# [대두족장 인생 치트키 객체지향성 원론] Part 04 - 객체지향성과 패턴 인식: https://youtu.be/iNKsJm1xBTA

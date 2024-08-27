@@ -1,0 +1,1 @@
+# [대두족장 인생 치트키 객체지향성 원론] Part 07 - 객체지향적 언어 공부 1년 단기 숙제: https://youtu.be/OHJUou9GkHU
