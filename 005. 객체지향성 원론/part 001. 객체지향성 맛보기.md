@@ -1,1 +1,0 @@
-# [대두족장 인생 치트키 객체지향성 원론] Part 01 - 객체지향성 맛보기: https://youtu.be/9Ru2TNV8WMw
